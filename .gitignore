@@ -1,3 +1,30 @@
+# Local LFS
+source-packages/voices/festvox_cmu_us_clb_cg.tar.gz
+source-packages/festival-2.5.0-release.tar.gz
+source-packages/festlex_CMU.tar.gz
+source-packages/voices/festvox_cmu_us_aew_cg.tar.gz
+source-packages/voices/festvox_cmu_us_aup_cg.tar.gz
+source-packages/voices/festvox_cmu_us_axb_cg.tar.gz
+source-packages/voices/festvox_cmu_us_bdl_cg.tar.gz
+source-packages/voices/festvox_cmu_us_eey_cg.tar.gz
+source-packages/voices/festvox_cmu_us_ksp_cg.tar.gz
+source-packages/voices/festvox_cmu_us_fem_cg.tar.gz
+source-packages/voices/festvox_cmu_us_gka_cg.tar.gz
+source-packages/voices/festvox_cmu_us_awb_cg.tar.gz
+source-packages/voices/festvox_cmu_us_ljm_cg.tar.gz
+source-packages/voices/festvox_cmu_us_ahw_cg.tar.gz
+source-packages/voices/festvox_cmu_us_slt_cg.tar.gz
+source-packages/voices/festvox_cmu_us_slp_cg.tar.gz
+source-packages/voices/festvox_cmu_us_jmk_cg.tar.gz
+source-packages/voices/festvox_cmu_us_lnh_cg.tar.gz
+source-packages/voices/festvox_cmu_us_rms_cg.tar.gz
+source-packages/voices/festvox_cmu_us_rxr_cg.tar.gz
+source-packages/festlex_OALD.tar.gz
+source-packages/festlex_POSLEX.tar.gz
+source-packages/festvox-2.7.0-release.tar.gz
+source-packages/festvox-2.8.0-release.tar.gz
+source-packages/speech_tools-2.5.0-release.tar.gz
+
 # Prerequisites
 *.d
 
